@@ -7,4 +7,12 @@ Offensive Security Intro
 ✅ 
 
 ## "Your First Hack" 
+Goal: Find a way to hack a FakeBank application and steal money 
+
+## Finding Hidden Features
+- One of the easiest ways to hack an application is by finding hidden features
+
+
+## Hacking Methods 
+- Finding hidden features
 - 
