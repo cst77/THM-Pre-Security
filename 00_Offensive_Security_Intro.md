@@ -3,6 +3,7 @@
 ## 🔎 Learning Objectives
 
 ✅ Be able to define offensive vs. defensive security
+
 ✅ Finish a lab, simulating entry & fund depositing into a fake bank account 
 
 ## Summary of Concents & Skills Learned 
